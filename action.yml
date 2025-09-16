@@ -1,4 +1,4 @@
-name: Changesets
+name: SDKristen
 description: A GitHub action to automate releases with Changesets
 runs:
   using: "node20"
@@ -51,4 +51,4 @@ outputs:
     description: The pull request number that was created or updated
 branding:
   icon: "package"
-  color: "blue"
+  color: "gray"
